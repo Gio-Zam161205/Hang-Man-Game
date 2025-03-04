@@ -235,9 +235,5 @@ const wordList = [
         word: "ilusion",
         hint: "Una percepción o creencia falsa; una apariencia o impresión engañosa."
     },
-    {
-        word: "fernanda",
-        hint: "Una chica hermosa con lindos ojos y un encanto especial."
-    },
 ];
 
